@@ -1,4 +1,5 @@
 ## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sarthak_agrawal1?theme=dark&ext=heatmap)
 
 <!--
 **Sarthakagrawal213/Sarthakagrawal213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
